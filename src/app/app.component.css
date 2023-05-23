@@ -1,0 +1,23 @@
+#up-left {
+    position: absolute;
+    top: 0;
+    left: 0;
+}
+
+#up-right {
+    position: absolute;
+    top: 0;
+    right: 0;
+}
+
+#down-left {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+}
+
+#down-right {
+    position: absolute;
+    bottom: 0;
+    right: 0;
+}
